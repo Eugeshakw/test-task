@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/test-task/static/js/main.bb43abc0.js",
+    "static/js/989.ab0210cc.chunk.js": "/test-task/static/js/989.ab0210cc.chunk.js",
+    "index.html": "/test-task/index.html",
+    "main.bb43abc0.js.map": "/test-task/static/js/main.bb43abc0.js.map",
+    "989.ab0210cc.chunk.js.map": "/test-task/static/js/989.ab0210cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bb43abc0.js"
+  ]
+}
