@@ -1,10 +1,11 @@
-
-
+import {Hero} from '../components/Hero/Hero';
+import {Cards} from '../components/cards/Cards'
 const HomePage = () => {
 
     return (
         <>
-        <h1>Hello World !!!!</h1>
+        <Hero/>
+        <Cards/>
         </>
     )
 }
